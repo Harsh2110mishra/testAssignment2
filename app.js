@@ -5,7 +5,7 @@ import Constants from 'expo-constants';
 import Cart from './components/cart';
 import Product from './components/products';
 
-// PS: This feature of cart. needs either redux or React.context for better state management like total price, quantity.
+// PS: This feature of cart. needs either redux or React.context for better state management like total price, quantity. Also, in 1 hour I am only able to create this simple cart feature so if needed I can create more flexible cart feature but need more time.
 
 export default function App() {
 const products =[
